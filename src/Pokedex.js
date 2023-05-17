@@ -19,7 +19,7 @@ const Pokedex = ({ indices, score, winner }) => {
         );
       })}
       <h5>
-        Total Score: {score} &nbsp; &nbsp; &nbsp;<small>{winner ? "This hand wins" : ""}</small>
+        Total Score: {score} &nbsp; &nbsp; &nbsp;<small>{winner ? "Winner" : ""}</small>
       </h5>
     </div>
   );
