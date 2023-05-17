@@ -1,0 +1,22 @@
+@media screen and (max-width: 680px) {
+  .Pokegame {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 681px) {
+  .Pokegame {
+    width: 800px;
+  }
+}
+h3{
+    width: 10rem;
+    margin: auto;
+}
+.Pokegame-hand {
+  display: inline-block;
+  margin: auto;
+}
+.Pokegame{
+    margin: auto;
+}
